@@ -1,12 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link href="styles/styles.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap"
+        rel="stylesheet">
+    <title>Futbol Sport.</title>
 </head>
+
 <body>
-    
+    <img src="images/futbolSportLogo.png" class="logo">
+    <div class="titlesContainer">
+        <h1>Futbol Sport.</h1>
+        <h2>Jugá 5 vs 5</h2>
+        <p class="parrafoInstrucciones">Instrucciones: Se agregan dos equipos de 5 jugadores cada uno. (se elige un
+            jugador
+            por turno). <br>El botón "JUGAR" compara cuál equipo es el que tiene más puntos.</p>
+    </div>
+
+
+    <section class="buttonsContainer">
+        <input id="inputBusqueda" placeholder="Buscar">
+        <button id="search">BUSCAR JUGADORES</button>
+        <button id="botonJugar">JUGAR</button>
+        
+        <div class="botonVerJugEquipos">
+            <button id="equipos">VER EQUIPOS</button>
+        </div>
+    </section>
+
+    <div class="buttonsContainer2">
+        <button class="botonParaFiltrar" value="">todos</button>
+        <button class="botonParaFiltrar" value="arquero">arqueros</button>
+        <button class="botonParaFiltrar" value="defensor">defensores</button>
+        <button class="botonParaFiltrar" value="mediocampista">mediocampistas</button>
+        <button class="botonParaFiltrar" value="delantero">delanteros</button>
+    </div>
+
+    <div class="teamsContainer">
+        <section class="oculto" id="contenedorEquipo1"></section>
+        <section class="oculto" id="contenedorEquipo2"></section>
+    </div>
+
+    <section class="contenedorPad">
+        <div id="contenedorJugadores"></div>
+    </section>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="script.js"></script>
 </body>
+
 </html>
