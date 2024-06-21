@@ -5,6 +5,7 @@
         "apellido": "almada",
         "posicion": "mediocampista",
         "pts": 79,
+        "probabilidad": 70,
         "rutaImg": "almada.jpg",
         "rutaImg2": "thiagoAlmadaSinFondo.png"
     },
@@ -14,6 +15,7 @@
         "apellido": "di maria",
         "posicion": "delantero",
         "pts": 87,
+        "probabilidad": 90,
         "rutaImg": "dimaria.jpg",
         "rutaImg2": "diMariaSinFondo.png"
     },
@@ -23,6 +25,7 @@
         "apellido": "dybala",
         "posicion": "delantero",
         "pts": 86,
+        "probabilidad": 85,
         "rutaImg": "dybala.jpg",
         "rutaImg2": "dybalaSinFondo.png"
     },
@@ -32,6 +35,7 @@
         "apellido": "fernandez",
         "posicion": "mediocampista",
         "pts": 90,
+        "probabilidad": 89,
         "rutaImg": "enzo.jpg",
         "rutaImg2": "enzoSinFondo.png"
     },
@@ -41,6 +45,7 @@
         "apellido": "foyth",
         "posicion": "defensor",
         "pts": 86,
+        "probabilidad": 70,
         "rutaImg": "foyth.jpg",
         "rutaImg2": "foythSinFondo.png"
     },
@@ -50,6 +55,7 @@
         "apellido": "alvarez",
         "posicion": "delantero",
         "pts": 91,
+        "probabilidad": 80,
         "rutaImg": "julian.png",
         "rutaImg2": "julianSinFondo.png"
     },
@@ -59,6 +65,7 @@
         "apellido": "macallister",
         "posicion": "mediocampista",
         "pts": 92,
+        "probabilidad": 80,
         "rutaImg": "macallister.jpg",
         "rutaImg2": "macallisterSinFondo.png"
     },
@@ -68,6 +75,7 @@
         "apellido": "messi",
         "posicion": "delantero",
         "pts": 98,
+        "probabilidad": 98,
         "rutaImg": "messi.jpg",
         "rutaImg2": "messiSinFondo.png"
     },
@@ -77,6 +85,7 @@
         "apellido": "montiel",
         "posicion": "defensor",
         "pts": 87,
+        "probabilidad": 75,
         "rutaImg": "montiel.jpg",
         "rutaImg2": "montielSinFondo.png"
     },
@@ -86,6 +95,7 @@
         "apellido": "tagliafico",
         "posicion": "defensor",
         "pts": 88,
+        "probabilidad": 65,
         "rutaImg": "tagliafico.jpg",
         "rutaImg2": "tagliaficoSinFondo.png"
     },
@@ -95,6 +105,7 @@
         "apellido": "martinez",
         "posicion": "arquero",
         "pts": 94,
+        "probabilidad": 90,
         "rutaImg": "martinez.jpeg",
         "rutaImg2": "dibuSinFondo.png"
     },
@@ -104,6 +115,7 @@
         "apellido": "de paul",
         "posicion": "mediocampista",
         "pts": 89,
+        "probabilidad": 70,
         "rutaImg": "depaul.png",
         "rutaImg2": "dePaulSinFondo.png"
     },
@@ -113,6 +125,7 @@
         "apellido": "romero",
         "posicion": "arquero",
         "pts": 90,
+        "probabilidad": 80,
         "rutaImg": "romero.jpg",
         "rutaImg2": "romeroSinFondo.png"
     },
@@ -122,6 +135,7 @@
         "apellido": "maradona",
         "posicion": "mediocampista",
         "pts": 99,
+        "probabilidad": 98,
         "rutaImg": "diego86.jpg",
         "rutaImg2": "maradona86SinFondo.png"
     },
@@ -131,6 +145,7 @@
         "apellido": "maradona",
         "posicion": "mediocampista",
         "pts": 95,
+        "probabilidad": 97,
         "rutaImg": "diego90.jpg",
         "rutaImg2": "maradona90SinFondo.png"
     },
@@ -140,6 +155,7 @@
         "apellido": "brown",
         "posicion": "defensor",
         "pts": 88,
+        "probabilidad": 80,
         "rutaImg": "brown90.png",
         "rutaImg2": "brownSinFondo.png"
     },
@@ -149,6 +165,7 @@
         "apellido": "cavani",
         "posicion": "delantero",
         "pts": 75,
+        "probabilidad": 75,
         "rutaImg": "cavaniBoca.png",
         "rutaImg2": "cavaniSinFondo.png"
     },
@@ -158,6 +175,7 @@
         "apellido": "brehme",
         "posicion": "defensor",
         "pts": 90,
+        "playerProbability": 90,
         "rutaImg": "brehme90.png",
         "rutaImg2": "brehmeSinFondo.png"
     },
@@ -167,6 +185,7 @@
         "apellido": "coutinho",
         "posicion": "mediocampista",
         "pts": 84,
+        "probabilidad": 85,
         "rutaImg": "coutinho.jpg",
         "rutaImg2": "coutinhoSinFondo.png"
     },
@@ -176,6 +195,7 @@
         "apellido": "fernandez",
         "posicion": "mediocampista",
         "pts": 89,
+        "probabilidad": 88,
         "rutaImg": "enzoChelsea.jpg",
         "rutaImg2": "enzoChelseaSinFondo.png"
     },
@@ -185,6 +205,7 @@
         "apellido": "fernandez",
         "posicion": "mediocampista",
         "pts": 94,
+        "probabilidad": 90,
         "rutaImg": "enzoElite.jpg",
         "rutaImg2": "enzoEliteSinFondo.png"
     },
@@ -194,6 +215,7 @@
         "apellido": "foden",
         "posicion": "mediocampista",
         "pts": 92,
+        "playerProbability": 90,
         "rutaImg": "foden.jpg",
         "rutaImg2": "fodenSinFondo.png"
     },
@@ -203,6 +225,7 @@
         "apellido": "rodriguez",
         "posicion": "delantero",
         "pts": 90,
+        "probabilidad": 85,
         "rutaImg": "pedro.jpg",
         "rutaImg2": "pedroSinFondo.png"
     },
@@ -212,6 +235,7 @@
         "apellido": "platini",
         "posicion": "mediocampista",
         "pts": 97,
+        "probabilidad": 90,
         "rutaImg": "platini90.jpg",
         "rutaImg2": "platiniSinFondo.png"
     },
@@ -221,6 +245,7 @@
         "apellido": "sterling",
         "posicion": "delantero",
         "pts": 89,
+        "probabilidad": 89,
         "rutaImg": "sterling.jpg",
         "rutaImg2": "sterlingSinFondo.png"
     },
@@ -230,6 +255,7 @@
         "apellido": "zidane",
         "posicion": "mediocampista",
         "pts": 98,
+        "probabilidad": 95,
         "rutaImg": "zidane98.jpg",
         "rutaImg2": "zidaneSinFondo.png"
     }
